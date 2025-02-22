@@ -1,0 +1,7 @@
+PyQt5
+Pillow
+PyPDF2
+pdfplumber
+python-docx
+openpyxl
+moviepy=1.0.3
